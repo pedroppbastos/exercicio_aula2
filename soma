@@ -1,0 +1,9 @@
+print "A? "
+numeroA = io.read("*n")
+
+print "B? "
+numeroB = io.read("*n")
+
+soma = numeroA + numeroB
+
+print ("soma = ", soma)
